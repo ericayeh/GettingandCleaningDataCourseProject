@@ -3,7 +3,7 @@
 
 The following paragraph describes the features of the original data set [1] prior to analysis.
 
-Feature Selection (Original Data) [1]
+##Feature Selection (Original Data) [1]
 =====================================
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and 
